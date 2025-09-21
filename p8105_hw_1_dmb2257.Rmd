@@ -2,7 +2,7 @@
 title: "p8105_hw_1_dmb2257"
 author: "Diane Benites"
 date: "2025-09-21"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
