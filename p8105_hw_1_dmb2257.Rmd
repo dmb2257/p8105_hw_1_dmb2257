@@ -28,3 +28,18 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+library(moderndive)
+data("early_january_weather")
+```
+
+
+
+## Short Description 
+There are 15 variables in the data set: origin, year, month, day, hour, temperature, dew point, humidity, wind direction, wind speed, wind gust, precipitation, pressure, visibility and time
+There are 358 rows and 15 columns.
+
+```{r}
+
+```
+
